@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hareriman
 - 👀 I’m interested in Programming with Python
 - 🌱 I’m currently learning at AUCA( African University Of Central Africa)
-- 💞️ I’m looking to collaborate on Software Egineering skills 
+- 💞️ I’m looking to collaborate on Software Engineering skills 
 - 📫 How to reach me ...
 
 <!---
