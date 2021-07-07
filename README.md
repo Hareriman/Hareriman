@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming with Python
 - 🌱 I’m currently learning at AUCA( African University Of Central Africa)
 - 💞️ I’m looking to collaborate on Software Engineering skills 
-- 📫 How to reach me ...
+- 📫 you can reach me through email: harerimanaclementkella@gmail.com
 
 <!---
 Hareriman/Hareriman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
